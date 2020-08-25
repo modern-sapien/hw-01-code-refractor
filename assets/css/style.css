@@ -86,9 +86,6 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead,
-.benefit-brand, 
-.benefit-cost,
 .benefit-sec {
     margin-bottom: 32px;
     color: #ffffff;
@@ -105,7 +102,7 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+.main-content-sec   {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -114,15 +111,8 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
+.search-engine-optimization,
+.online-reputation-management,
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
