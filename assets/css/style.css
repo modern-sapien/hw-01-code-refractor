@@ -51,7 +51,7 @@ p {
     font-size: 18px;
 }
 
-/*Hero Image Div Styling */
+/*Figure Hero Image  Styling */
 .hero {
     margin-bottom: 25px;
     background-size: cover;
@@ -74,7 +74,7 @@ p {
     margin-left: 20px;
 }
 
-/*Benefits Sec */
+/*Benefits Section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -102,6 +102,7 @@ p {
     max-width: 150px;
 }
 
+/* Main Section */
 .main-content-sec {
     margin-bottom: 20px;
     padding: 50px;
