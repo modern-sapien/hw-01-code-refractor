@@ -1,5 +1,7 @@
 # hw-01-code-refractor Read Me
 
+![This is a screenshot of the home page](assets\images\horiseon_screen.png "This is a screenshot of the homepage.")
+
 * [Assignment](#introduction)
 * [CSS](#css)
 * [HTML](#html)
